@@ -133,7 +133,7 @@ header {
     font-size: 12px;
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    /* letter-spacing: 2px; */
     color: #d1c8bb ;
 }
 
